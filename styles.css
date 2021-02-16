@@ -53,7 +53,7 @@ body {
 }
 
 .chatcontainerbackground {
-	background: url("/judy_chat_001/images/chatboxbackground.png");
+	background: url(".judy_chat_001/images/chatboxbackground.png");
 	background-repeat: no-repeat;
 	height: 598px;
 	width: 800px;
