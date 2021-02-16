@@ -114,6 +114,23 @@ body {
 	font-size: 20px;
 }
 
+.chatboxleftimage {
+	background-image: url("judy_chat_001/images/bdreef.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-posistion: center;
+	border: 1.5px solid #483723;
+	border-radius: 5px;
+	display: inline-block;
+	width: 420px;
+	height: 210px;
+	padding: 10px;
+	padding-top: 6px;
+	max-width: 380px;
+	text-align: left;
+	font-size: 20px;
+}
+
 .socialmediaicons {
 text-align: center;
 }
