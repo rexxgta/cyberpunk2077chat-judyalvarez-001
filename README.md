@@ -1,4 +1,4 @@
-# cyberpunk2077chat-judyalvarez-001
+# Cyberpunk 2077 Chat - Judy Álvarez 001
 
 This is a generated chat between V (Female) and Judy Álvarez.
 
